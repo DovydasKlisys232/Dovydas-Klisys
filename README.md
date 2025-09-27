@@ -20,6 +20,15 @@ Here are a few projects I'm particularly proud of:
 | **[environmental-monitoring-controller](https://github.com/DovydasKlisys232/environmental-monitoring-controller)** | Designed a custom PCB using Eagle, incorporating Arduino328p, SPI sensors, and assembled the system. Programmed in C++ to read sensor data, control actuators, and transmit data via UART to ESP32. | C++, PCB Design (Eagle), Arduino328p, SPI, UART, Soldering |
 | **[Full-Stack Web Application](link-to-repo)** | Developed server-side logic with Node.js/Express.js to create RESTful APIs and integrated Azure SQL database for efficient data storage and retrieval in a team collaboration project. | Node.js, Express.js, RESTful APIs, Azure SQL, JavaScript, GitHub |
 
+## 📖 school work
+
+Here is coding assignments and tutorials I completed in some coding modules:
+
+| Module | Description | Tech stack |
+| :--- | :--- | :--- |
+| **[Object-Oriented Programming](link-to-repo)** | learned about object-oriented fundamentals using C++ | C++|
+| **[Website technologies & Databases](link-to-repo)** | learned about how to design websites with HTML, CSS and Azure databases | HTML, CSS, Azure |
+
 ## 📈 My GitHub Stats
 
 <p align="center">
