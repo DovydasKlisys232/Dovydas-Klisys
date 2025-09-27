@@ -26,7 +26,7 @@ Here is coding assignments and tutorials I completed in some coding modules:
 
 | Module | Description | Tech stack |
 | :--- | :--- | :--- |
-| **[Object-Oriented Programming](link-to-repo)** | learned about object-oriented fundamentals using C++ | C++|
+| **[Object-Oriented-Programming](link-to-repo)** | learned about object-oriented fundamentals using C++ | C++|
 | **[Web technologies & Databases](link-to-repo)** | learned about how to design websites with HTML, CSS and Azure databases | HTML, CSS, Azure |
 
 ## 📈 My GitHub Stats
